@@ -21,7 +21,7 @@
 		<!--MyBatis生成插件配置文件-->
 		<mybatis.generator.configurationFile>src/main/resources/mybatis-generator/generatorConfig-mysql.xml</mybatis.generator.configurationFile>
 		<db.type>mysql</db.type>
-		<mysql.connector.java.version>8.0.16</mysql.connector.java.version>
+		<mysql.connector.java.version>8.0.28</mysql.connector.java.version>
 	</properties>
 
 	<dependencies>
