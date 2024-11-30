@@ -10,7 +10,7 @@
 
     <properties>
         <maven-plugin-api.version>3.5.2</maven-plugin-api.version>
-        <maven.core.version>3.5.2</maven.core.version>
+        <maven.core.version>3.8.1</maven.core.version>
         <freemarker.version>2.3.23</freemarker.version>
         <maven-license-plugin.version>1.9.0</maven-license-plugin.version>
         <maven.project.version>2.2.1</maven.project.version>
